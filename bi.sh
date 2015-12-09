@@ -31,3 +31,4 @@ MAX=$3
 fi
  
 echo "最大为$MAX,最小为$MIN"
+echo "this is v0.2"
