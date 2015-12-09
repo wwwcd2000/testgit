@@ -32,3 +32,5 @@ fi
  
 echo "最大为$MAX,最小为$MIN"
 echo "this is v0.2"
+echo "hell world"
+echo "this is V0.3"
